@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		
+		<title>Butterfly Mountain Co</title>
+		<!--favicon icon-->
+		<link rel="shortcut icon" href="imgs/favicon.ico">
+		<link rel="stylesheet" href="css/style.css" media="all">
+	</head>
+
+	<body> 
+		<!--Title of Page-->
+		<div class="hero-image"> 
+			<div class="hero-text">
+				<h1>Butterfly Mountain Co</h1>
+				<p>
+					Beauty in Simplicity
+				</p>
+					<button>products</button>
+			</div>
+		</div>
+		<header>
+			<div class="container header-container ">
+				<div class="logo-container">
+					<a href="index.html">
+						<img class="logo" src="imgs/logo.jpeg" alt="image of a black and white butterfly with clouds within the design"></img>
+					</a>
+				</div>
+				<nav class="nav">
+					<a id="shop" href="">Shop</a>
+					<a id="about" href="">About</a>
+					<a id="contact" href="">Contact</a>
+				</nav>
+			</div>
+		</header>
+		<main class="main">
+			<div class="container products-container ">
+				<div class="featureProducts">
+				</div>
+			</div>
+		</main>
+		<footer>
+			<div class="container footer-container ">
+				<!--Contact Information-->
+			<ul>
+				<li>TikTok</li>
+				<li>Facebook</li>
+				<li>Instagram</li>
+			</ul>
+				<address>
+					Email: <a href="mailto:butterflymountainco@yahoo.com">ButterflyMountainCo</a><br>
+					Telephone:<a href="tel:770-546-7225">770-546-7225</a>
+				</address>
+				<div class="img-container"/>
+					<a href="index.html">
+						<img src="imgs/logo.jpeg" id="footer-logo" alt="">
+					</a>
+				</div>
+			</div>
+		</footer>
+		</div>
+	</body>
