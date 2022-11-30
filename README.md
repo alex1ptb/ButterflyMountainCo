@@ -1,2 +1,0 @@
-# ButterflyMountainCo
-Business Website
